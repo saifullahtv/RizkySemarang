@@ -1,0 +1,22 @@
+{
+    "name": "Rizky Semarang",
+    "short_name": "Rizky Semarang",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTOJcHi1HtFZtAI8tIQYdPPeMPzUpZZrZ41SjmUldAX5OfsXtZa039Ep4NEKGHEy3EpC2uTKBkJJD-uzCV7n6Xlww1iEklmNEtHMlP9GKZhBaPl0Chv2EGCsIMmpN__Xu8Zgos-VE0NvVHEm_NL55sn-6Vq3Fcx0qD63HyBXZS9Yhsn0-Irocd2eiijdk/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijKRojYYKk75JeTWEWF_5PxfUM5LO2namA4MemlRQdgGWdvVikKcpZzzMf798fbusxdUA0HDNqAuq0K02nNX4J__c8gdry8hVXu0me5crftBmDqTDULVtRqjZPu4KUqJoGIz7nKLnpLJfJAMBmx-q1PPV_EQkbnQSs3ZAD5KF07bDzTfL6ftaj4ddPId4/s1600/android-chrome-512x512.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.rizkysmg.com/"
+}
